@@ -1,0 +1,50 @@
+C:\Users\all\source\repos\passport\bin\Debug\passport.exe.config
+C:\Users\all\source\repos\passport\bin\Debug\passport.exe
+C:\Users\all\source\repos\passport\bin\Debug\passport.pdb
+C:\Users\all\source\repos\passport\obj\Debug\passport.csprojAssemblyReference.cache
+C:\Users\all\source\repos\passport\obj\Debug\passport.Form1.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.Form2.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.Form3.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.Form4.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.Form5.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.Properties.Resources.resources
+C:\Users\all\source\repos\passport\obj\Debug\passport.csproj.GenerateResource.cache
+C:\Users\all\source\repos\passport\obj\Debug\passport.csproj.CoreCompileInputs.cache
+C:\Users\all\source\repos\passport\obj\Debug\passport.exe
+C:\Users\all\source\repos\passport\obj\Debug\passport.pdb
+E:\практ 3 (другая)\passport\bin\Debug\passport.exe.config
+E:\практ 3 (другая)\passport\bin\Debug\passport.exe
+E:\практ 3 (другая)\passport\bin\Debug\passport.pdb
+E:\практ 3 (другая)\passport\obj\Debug\passport.csproj.AssemblyReference.cache
+E:\практ 3 (другая)\passport\obj\Debug\passport.csproj.SuggestedBindingRedirects.cache
+E:\практ 3 (другая)\passport\obj\Debug\passport.Form1.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.Form2.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.Form3.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.Form4.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.Form5.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.Properties.Resources.resources
+E:\практ 3 (другая)\passport\obj\Debug\passport.csproj.GenerateResource.cache
+E:\практ 3 (другая)\passport\obj\Debug\passport.csproj.CoreCompileInputs.cache
+E:\практ 3 (другая)\passport\obj\Debug\passport.exe
+E:\практ 3 (другая)\passport\obj\Debug\passport.pdb
+D:\практ 3 (другая)\passport\bin\Debug\passport.exe.config
+D:\практ 3 (другая)\passport\bin\Debug\passport.exe
+D:\практ 3 (другая)\passport\bin\Debug\passport.pdb
+D:\практ 3 (другая)\passport\obj\Debug\passport.Form1.resources
+D:\практ 3 (другая)\passport\obj\Debug\passport.Properties.Resources.resources
+D:\практ 3 (другая)\passport\obj\Debug\passport.csproj.GenerateResource.cache
+D:\практ 3 (другая)\passport\obj\Debug\passport.csproj.CoreCompileInputs.cache
+D:\практ 3 (другая)\passport\obj\Debug\passport.exe
+D:\практ 3 (другая)\passport\obj\Debug\passport.pdb
+D:\практ 3 (другая)\passport\obj\Debug\passport.csproj.AssemblyReference.cache
+D:\практ 3 (паспорт)\passport\bin\Debug\passport.exe.config
+D:\практ 3 (паспорт)\passport\bin\Debug\passport.exe
+D:\практ 3 (паспорт)\passport\bin\Debug\passport.pdb
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.csproj.AssemblyReference.cache
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.Form1.resources
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.Form2.resources
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.Properties.Resources.resources
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.csproj.GenerateResource.cache
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.csproj.CoreCompileInputs.cache
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.exe
+D:\практ 3 (паспорт)\passport\obj\Debug\passport.pdb
